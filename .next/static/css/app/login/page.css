@@ -1,0 +1,156 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./src/components/Auth.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f7f9fc;
+    padding: 20px;
+  }
+  
+  .formWrapper {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+  }
+  
+  .input:focus {
+    border-color: #0070f3;
+  }
+  
+  .buttonGroup {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .button {
+    background-color: #0070f3;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 48%;
+  }
+  
+  .button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+  }
+  
+  .button:hover:not(:disabled) {
+    background-color: #005bb5;
+  }
+  
+  .error {
+    color: #e74c3c;
+    margin-top: 15px;
+  }
+   */
+
+   .Auth_container__Kcxea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f9f9f9;
+  }
+  
+  .Auth_formWrapper__zpkaw {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .Auth_title__Xi2Nc {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .Auth_input__Ep_Z_ {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .Auth_buttonGroup__x3bAy {
+    margin-top: 20px;
+  }
+  
+  .Auth_button__T7KcB {
+    width: 100%;
+    padding: 12px;
+    background-color: #0070f3;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Auth_button__T7KcB:hover {
+    background-color: #005bb5;
+  }
+  
+  .Auth_socialLogin__Tr4Ar {
+    margin-top: 20px;
+  }
+  
+  .Auth_googleButton__kAxIA {
+    width: 100%;
+    padding: 12px;
+    background-color: #db4437;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Auth_googleButton__kAxIA:hover {
+    background-color: #c3362a;
+  }
+  
+  .Auth_error__nhZPf {
+    color: #ff4d4f;
+    margin-top: 15px;
+  }
+  
